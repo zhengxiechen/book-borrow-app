@@ -8,17 +8,17 @@
       {
         "id": "Griffiths_ID_1",
         "condition": "New",
-        "thumbnail": "Griffiths_pic_1"
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/41icIugmCAL._AC_US218_.jpg"
       },
       {
         "id": "Griffiths_ID_2",
         "condition": "Used - Like New",
-        "thumbnail": "Griffiths_pic_2"
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/41icIugmCAL._AC_US218_.jpg"
       },
       {
         "id": "Griffiths_ID_3",
         "condition": "Used - Good",
-        "thumbnail": "Griffiths_pic_3"
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/41icIugmCAL._AC_US218_.jpg"
       }
     ]
   },
