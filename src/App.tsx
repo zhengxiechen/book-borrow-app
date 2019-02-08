@@ -1,11 +1,11 @@
 import React, { Component } from 'react';
 import './App.css';
-import BookGrapApi from './api/BookGrapApi';
+import BookBorrowApi from './api/BookBorrowApi';
 import MockApi from './api/MockApi';
 import BookList from './components/BookList';
 
 class App extends Component {
-  private api: BookGrapApi = new MockApi;
+  private api: BookBorrowApi = new MockApi;
 
   render() {
     return (
