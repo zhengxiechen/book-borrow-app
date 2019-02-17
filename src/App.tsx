@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import './App.css';
 import BookBorrowApi from './api/BookBorrowApi';
 import MockApi from './api/MockApi';
 import BookList from './components/BookList';
